@@ -1,1 +1,1 @@
-Sunucuya giren kullanıcı tagını/etiketini taşıyorsa rolünü verir
+Basit bir sunucuya giren kullanıcı tagını veya etiketini taşıyorsa rolünü verir
